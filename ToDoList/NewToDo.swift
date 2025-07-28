@@ -27,8 +27,9 @@ struct NewToDo: View {
                 Text("Save")
             }
         }
+        .padding()
     }
-    .padding()
+
 }
 
 #Preview {
